@@ -1,0 +1,17 @@
+# Python version
+#python-version==3.12.3
+
+# Web framework
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Image processing
+Pillow==10.4.0
+opencv-python>=4.9.0
+
+# Machine learning and numerical computations
+numpy>=1.26.0
+scikit-learn==1.7.1
+
+# Production server
+gunicorn
